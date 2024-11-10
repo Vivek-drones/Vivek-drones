@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vivek-drones
 - 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning DSA in JAVA
-- 💞️ I’m looking to collaborate on Projects on ML.
+- 💞️ I’m looking to collaborate on Projects based on web developments
 - 📫 How to reach me g.vivekroy789gmail.com
 - 😄 Pronouns: MALE
 - ⚡ Fun fact: Iam an ECE student but going for IT side.
